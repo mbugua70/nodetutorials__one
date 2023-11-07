@@ -1,0 +1,20 @@
+
+Built - in - path module
+join() - is used to join all the paths
+
+
+resolve() - it resolve the path segment into an absolute path
+
+Built-in-fs module
+Interacting with the file system
+- There are two ways , asynchoronously non blocking synchrounsly blocking
+-
+
+
+HTTP module
+- Server side
+-   creaserver() - it has two arguement
+- the first arguement is res, and req
+-req -  incoming request
+
+-listen() - the port our server listen too

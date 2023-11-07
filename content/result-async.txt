@@ -1,0 +1,2 @@
+Here is the result for callback async with fs: // this one the first file text
+, // this one the second file
