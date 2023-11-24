@@ -15,7 +15,7 @@ const fileOne = path.basename(base)
 console.log(fileOne)
 
 // resolve
-
+// used to provide an absolute path
 const absolutePath = path.resolve(__dirname, "/nodeone/1-modulename.js")
 
 console.log(absolutePath)

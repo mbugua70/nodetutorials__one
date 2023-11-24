@@ -18,3 +18,23 @@ HTTP module
 -req -  incoming request
 
 -listen() - the port our server listen too
+
+nodeman - this gonna watch your file through out.
+
+installing the package globally
+- npm install -g packageName
+
+
+Event loop - nodejs
+- allow node js to perform non blocking I/O operations
+- REPL (read eval print loop)
+
+- when nodejs start it initialize event loop/ drops into the repl/ making async api calls
+
+-javascript is a single threaded language, it can only do one thing a time.
+
+EVENT
+-event programming in node.js
+
+-on - will listen to a specific event
+-emit - will emit an event
